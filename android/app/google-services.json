@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963390920327",
+    "project_id": "app-pure-powders",
+    "storage_bucket": "app-pure-powders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963390920327:android:f074078ef5efe169160a22",
+        "android_client_info": {
+          "package_name": "com.example.app_pure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963390920327-s01obdeusa78k86q7fctoaoj3svurb46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjudaOSVTtzShs3pthPbqoMvfdsiPaBHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963390920327-s01obdeusa78k86q7fctoaoj3svurb46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
